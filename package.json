@@ -1,0 +1,29 @@
+{
+  "name": "data-base-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ildorado/data-base-mySQL.git"
+  },
+  "author": "Ilya Hamisoniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ildorado/data-base-mySQL/issues"
+  },
+  "homepage": "https://github.com/Ildorado/data-base-mySQL#readme",
+  "dependencies": {
+    "buffer-to-arraybuffer": "0.0.5",
+    "express": "^4.17.1",
+    "file-saver": "^2.0.2",
+    "jimp": "^0.8.5",
+    "mysql": "^2.17.1",
+    "pdfkit": "^0.10.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0"
+  }
+}
